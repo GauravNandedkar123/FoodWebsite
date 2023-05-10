@@ -1,5 +1,2 @@
-
-(https://github.com/GauravNandedkar123/FoodWebsite/assets/130847216/3db40e61-1057-43eb-8008-069cf8698328)
-(https://github.com/GauravNandedkar123/FoodWebsite/assets/130847216/54d2a7ab-e372-4066-b8d9-a03a236ff466) 
-
-
+![Screenshot (23)](https://github.com/GauravNandedkar123/FoodWebsite/assets/130847216/b01fcbe9-1c06-4923-8bca-fc689f1bff89)
+![Screenshot (24)](https://github.com/GauravNandedkar123/FoodWebsite/assets/130847216/cdd6e70e-1ff9-4090-bb9c-25ef53a5158c)
